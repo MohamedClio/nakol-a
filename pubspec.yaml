@@ -33,6 +33,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  html: ^0.15.6
 
 dev_dependencies:
   flutter_launcher_icons: ^0.13.1
@@ -63,6 +64,19 @@ flutter:
   assets:
     - assets/images/food_transparent.png
     - assets/images/drinks_transparent.png
+    - assets/images/surprise_me.png
+    - assets/images/burger.png
+    - assets/images/pizza.png
+    - assets/images/sushi.png
+    - assets/images/steak.png
+    - assets/images/dessert.png
+    - assets/images/fried_chicken.png
+    - assets/images/kabab.png
+    - assets/images/pasta.png
+    - assets/images/coffee.png
+    - assets/images/cola.png
+    - assets/images/juice.png
+    - assets/images/salad.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
