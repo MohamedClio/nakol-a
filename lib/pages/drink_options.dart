@@ -27,7 +27,7 @@ class DrinkOptions extends StatelessWidget {
       'assets/images/smoothie.png',
       'assets/images/lemonade.png',
       'assets/images/cola.png',
-      'assets/images/energy_drink.png',
+      'assets/images/energyDrink.png',
     ];
     return Scaffold(
       appBar: AppBar(title: const Text('تحب تشرب ايه؟')),
